@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+  color: black;
+
+}
+.modellari_turlari {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  img {
+    width: 300px;
+  }
+  
+}
